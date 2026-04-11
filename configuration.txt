@@ -32309,6 +32309,7 @@
 [/dubairen.com/]123.123.123.123
 [/dubao123.com/]123.123.123.123
 [/dubbing.tech/]123.123.123.123
+[/dubbingx.com/]123.123.123.123
 [/dubbo.io/]123.123.123.123
 [/duble.live/]123.123.123.123
 [/dubola.com/]123.123.123.123
@@ -68903,6 +68904,7 @@
 [/miaocode.com/]123.123.123.123
 [/miaodiyun.com/]123.123.123.123
 [/miaodongbar.com/]123.123.123.123
+[/miaodongshenghuo.com/]123.123.123.123
 [/miaogongzi.cc/]123.123.123.123
 [/miaogongzi.net/]123.123.123.123
 [/miaohuiyanyi.com/]123.123.123.123
@@ -79934,6 +79936,7 @@
 [/quaspa.com/]123.123.123.123
 [/quazero.com/]123.123.123.123
 [/quba360.com/]123.123.123.123
+[/qubang.cc/]123.123.123.123
 [/qubaobei.com/]123.123.123.123
 [/qubiankeji.com/]123.123.123.123
 [/qucai.com/]123.123.123.123
@@ -95338,6 +95341,7 @@
 [/tsg-online.net/]123.123.123.123
 [/tsggx.com/]123.123.123.123
 [/tsgks.com/]123.123.123.123
+[/tsgyun.com/]123.123.123.123
 [/tshaisen.com/]123.123.123.123
 [/tshe.com/]123.123.123.123
 [/tshe.me/]123.123.123.123
@@ -110427,6 +110431,7 @@
 [/yooek.com/]123.123.123.123
 [/yoofh.com/]123.123.123.123
 [/yoogene.com/]123.123.123.123
+[/yoohe.net/]123.123.123.123
 [/yoohouse.com/]123.123.123.123
 [/yoojia.com/]123.123.123.123
 [/yoojing.com/]123.123.123.123
