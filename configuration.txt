@@ -11762,6 +11762,7 @@
 [/ailvxing.com/]123.123.123.123
 [/aim-ec.com/]123.123.123.123
 [/aimaker.space/]123.123.123.123
+[/aimap.com/]123.123.123.123
 [/aimatech.com/]123.123.123.123
 [/aimatrix.ai/]123.123.123.123
 [/aimcx.com/]123.123.123.123
@@ -17422,6 +17423,7 @@
 [/bjfqy.com/]123.123.123.123
 [/bjfriendshiphotel.com/]123.123.123.123
 [/bjfsali.com/]123.123.123.123
+[/bjftfy.com/]123.123.123.123
 [/bjfzst.com/]123.123.123.123
 [/bjgas.com/]123.123.123.123
 [/bjgasgh.com/]123.123.123.123
@@ -21321,6 +21323,7 @@
 [/cetgps.com/]123.123.123.123
 [/cethik.com/]123.123.123.123
 [/cetkmh.com/]123.123.123.123
+[/cetsteam.com/]123.123.123.123
 [/cetzig.com/]123.123.123.123
 [/ceultimate.com/]123.123.123.123
 [/ceve-market.org/]123.123.123.123
@@ -34994,6 +34997,7 @@
 [/evpartner.com/]123.123.123.123
 [/evpowergroup.com/]123.123.123.123
 [/evtcn.com/]123.123.123.123
+[/evtrust.com/]123.123.123.123
 [/evyy.net/]123.123.123.123
 [/evzhidao.com/]123.123.123.123
 [/evznl.org/]123.123.123.123
@@ -36946,6 +36950,7 @@
 [/fk100.com/]123.123.123.123
 [/fkask.net/]123.123.123.123
 [/fkblog.org/]123.123.123.123
+[/fkbuff.com/]123.123.123.123
 [/fkcaijing.com/]123.123.123.123
 [/fkdex.com/]123.123.123.123
 [/fkdmg.com/]123.123.123.123
@@ -48033,6 +48038,7 @@
 [/hivictor.net/]123.123.123.123
 [/hiwafer.com/]123.123.123.123
 [/hiwaysemi.com/]123.123.123.123
+[/hiwayslaw.com/]123.123.123.123
 [/hiwbb.com/]123.123.123.123
 [/hiwechats.com/]123.123.123.123
 [/hiweixiu.com/]123.123.123.123
@@ -59754,6 +59760,7 @@
 [/jxxdxy.com/]123.123.123.123
 [/jxxhdn.com/]123.123.123.123
 [/jxxhsd.com/]123.123.123.123
+[/jxxinzhe.com/]123.123.123.123
 [/jxxnyqc.com/]123.123.123.123
 [/jxxs.net/]123.123.123.123
 [/jxycqy.com/]123.123.123.123
@@ -92846,6 +92853,7 @@
 [/tencentcloudclub.com/]123.123.123.123
 [/tencentcloudcore.com/]123.123.123.123
 [/tencentcloudcr.com/]123.123.123.123
+[/tencentcloudcs.com/]123.123.123.123
 [/tencentcloudga.com/]123.123.123.123
 [/tencentcloudga001.com/]123.123.123.123
 [/tencentcloudga001.net/]123.123.123.123
