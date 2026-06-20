@@ -13890,6 +13890,7 @@
 [/azuiblc.com/]123.123.123.123
 [/azure-wave.com/]123.123.123.123
 [/azure.cc/]123.123.123.123
+[/azureflame.cloud/]123.123.123.123
 [/azureflying.com/]123.123.123.123
 [/azuremigrate.download.prss.microsoft.com/]123.123.123.123
 [/azuremigratetest.download.prss.microsoft.com/]123.123.123.123
@@ -16478,6 +16479,7 @@
 [/bjartmuseum.com/]123.123.123.123
 [/bjatv.com/]123.123.123.123
 [/bjbaidianfeng.com/]123.123.123.123
+[/bjbaifan.com/]123.123.123.123
 [/bjbalb.com/]123.123.123.123
 [/bjbaodao.net/]123.123.123.123
 [/bjbb.com/]123.123.123.123
@@ -18915,6 +18917,7 @@
 [/cangfengzhe.com/]123.123.123.123
 [/canghaiip.com/]123.123.123.123
 [/canghaimachine.com/]123.123.123.123
+[/cangjggame.com/]123.123.123.123
 [/canglanghospital.com/]123.123.123.123
 [/cangmang.xyz/]123.123.123.123
 [/cangoonline.com/]123.123.123.123
@@ -20535,6 +20538,7 @@
 [/chachengji.com/]123.123.123.123
 [/chacihai.com/]123.123.123.123
 [/chacuo.net/]123.123.123.123
+[/chadaodao.com/]123.123.123.123
 [/chadianhua.net/]123.123.123.123
 [/chadoc.com/]123.123.123.123
 [/chaej.com/]123.123.123.123
@@ -34447,6 +34451,7 @@
 [/feiersmart.com/]123.123.123.123
 [/feifandesign.com/]123.123.123.123
 [/feifanindustry.com/]123.123.123.123
+[/feifanmi.com/]123.123.123.123
 [/feifantxt.com/]123.123.123.123
 [/feifantxt.net/]123.123.123.123
 [/feifdx.com/]123.123.123.123
@@ -75115,6 +75120,7 @@
 [/qingnianlvxing.com/]123.123.123.123
 [/qingniantuzhai.com/]123.123.123.123
 [/qingnianwang.com/]123.123.123.123
+[/qingning88.com/]123.123.123.123
 [/qingpanduola.com/]123.123.123.123
 [/qingpin.vip/]123.123.123.123
 [/qingping.co/]123.123.123.123
@@ -92117,6 +92123,7 @@
 [/uniow.com/]123.123.123.123
 [/unipack-tech.com/]123.123.123.123
 [/uniproud.com/]123.123.123.123
+[/unisapps.com/]123.123.123.123
 [/uniscope.com/]123.123.123.123
 [/unisdigital.com/]123.123.123.123
 [/unisedu.com/]123.123.123.123
@@ -112132,6 +112139,7 @@
 [/itunes-apple.com.akadns.net/]123.123.123.123
 [/itunes.apple.com/]123.123.123.123
 [/itunesconnect.apple.com/]123.123.123.123
+[/mensura.cdn-apple.com/]123.123.123.123
 [/mesu-cdn.apple.com.akadns.net/]123.123.123.123
 [/mesu-china.apple.com.akadns.net/]123.123.123.123
 [/mesu.apple.com/]123.123.123.123
