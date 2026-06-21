@@ -13900,6 +13900,7 @@
 [/b-k-automation.com/]123.123.123.123
 [/b-raymedia.com/]123.123.123.123
 [/b.biz/]123.123.123.123
+[/b.c2r.ts.cdn.office.net/]123.123.123.123
 [/b01.net/]123.123.123.123
 [/b02f0d7f3745ba7c.com/]123.123.123.123
 [/b041e427810281.beer/]123.123.123.123
@@ -33657,6 +33658,7 @@
 [/f-insight.com/]123.123.123.123
 [/f-stack.org/]123.123.123.123
 [/f.biz/]123.123.123.123
+[/f.c2r.ts.cdn.office.net/]123.123.123.123
 [/f.cx/]123.123.123.123
 [/f008.com/]123.123.123.123
 [/f015dfc4510292.beer/]123.123.123.123
@@ -81098,6 +81100,7 @@
 [/sheketiandi.com/]123.123.123.123
 [/shekou.com/]123.123.123.123
 [/shelive.net/]123.123.123.123
+[/shell.cdn.office.net/]123.123.123.123
 [/shellpub.com/]123.123.123.123
 [/shellsec.com/]123.123.123.123
 [/shelter-china.com/]123.123.123.123
@@ -84918,6 +84921,7 @@
 [/staticfile.org/]123.123.123.123
 [/statickksmg.com/]123.123.123.123
 [/statics.cc/]123.123.123.123
+[/statics.teams.cdn.office.net/]123.123.123.123
 [/staticsdd.com/]123.123.123.123
 [/staticsoe.com/]123.123.123.123
 [/staticsoem.com/]123.123.123.123
@@ -85631,6 +85635,7 @@
 [/surely.cool/]123.123.123.123
 [/surerp.com/]123.123.123.123
 [/surface.download.prss.microsoft.com/]123.123.123.123
+[/surface.downloads.prss.microsoft.com/]123.123.123.123
 [/surfacetreatmentgroup.com/]123.123.123.123
 [/surfacetreatmenttechnology.com/]123.123.123.123
 [/surfcg.com/]123.123.123.123
