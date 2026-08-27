@@ -64,6 +64,7 @@
 [/gsp4-cn.ls.apple.com/]123.123.123.123
 [/gsp5-cn.ls.apple.com/]123.123.123.123
 [/gsp85-cn-ssl.ls.apple.com/]123.123.123.123
+[/gspe11-2-cn-ssl.ls.apple.com/]123.123.123.123
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]123.123.123.123
 [/gspe19-2-cn-ssl.ls.apple.com/]123.123.123.123
 [/gspe19-cn-ssl.ls.apple.com/]123.123.123.123
@@ -9475,6 +9476,7 @@
 [/988848a9d1013.beer/]123.123.123.123
 [/988878.com/]123.123.123.123
 [/98892.com/]123.123.123.123
+[/988dns.com/]123.123.123.123
 [/988sl.com/]123.123.123.123
 [/9891.com/]123.123.123.123
 [/9891760ee2389285.com/]123.123.123.123
@@ -9963,6 +9965,7 @@
 [/aaawz.cc/]123.123.123.123
 [/aaayu.com/]123.123.123.123
 [/aaayun.com/]123.123.123.123
+[/aabb.com/]123.123.123.123
 [/aabqn.com/]123.123.123.123
 [/aac3442de07869c0.com/]123.123.123.123
 [/aacoptics.com/]123.123.123.123
@@ -12684,6 +12687,7 @@
 [/api-m.com/]123.123.123.123
 [/api-vod-qcloud.com/]123.123.123.123
 [/api.anythinktech.com/]123.123.123.123
+[/api.blipsandchitz.me/]123.123.123.123
 [/api.cnno1.uds.lenovo.com/]123.123.123.123
 [/api.djiservice.org/]123.123.123.123
 [/api.euwe1.uds.lenovo.com/]123.123.123.123
@@ -29704,6 +29708,7 @@
 [/dnake-park.com/]123.123.123.123
 [/dnbbn.com/]123.123.123.123
 [/dnbbs.com/]123.123.123.123
+[/dnbiz.com/]123.123.123.123
 [/dncable.com/]123.123.123.123
 [/dndc.cloud/]123.123.123.123
 [/dnettvbox.com/]123.123.123.123
@@ -63679,6 +63684,7 @@
 [/madajiefood.com/]123.123.123.123
 [/madaomall.com/]123.123.123.123
 [/madboxi.com/]123.123.123.123
+[/made-in-china.com/]123.123.123.123
 [/madefuns.com/]123.123.123.123
 [/madeinchinastone.com/]123.123.123.123
 [/madewei.com/]123.123.123.123
@@ -65408,6 +65414,7 @@
 [/microyan.com/]123.123.123.123
 [/microzl.com/]123.123.123.123
 [/microzuji.com/]123.123.123.123
+[/micstatic.com/]123.123.123.123
 [/mictormedical.com/]123.123.123.123
 [/micu.hk/]123.123.123.123
 [/micun.com/]123.123.123.123
@@ -70909,6 +70916,7 @@
 [/openatom.club/]123.123.123.123
 [/openbayes.com/]123.123.123.123
 [/openbcs.com/]123.123.123.123
+[/openbitfun.com/]123.123.123.123
 [/opencas.org/]123.123.123.123
 [/opencitybrain.org/]123.123.123.123
 [/opencloudgpt.online/]123.123.123.123
